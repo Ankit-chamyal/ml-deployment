@@ -1,0 +1,11 @@
+Classification Report for SVM:
+              precision    recall  f1-score   support
+
+           0       0.47      0.47      0.47       120
+           1       0.47      0.47      0.47       120
+
+    accuracy                           0.47       240
+   macro avg       0.47      0.47      0.47       240
+weighted avg       0.47      0.47      0.47       240
+
+ROC AUC Score: 0.5124

@@ -1,0 +1,11 @@
+Classification Report for Decision Tree:
+              precision    recall  f1-score   support
+
+           0       0.52      0.48      0.50       120
+           1       0.52      0.56      0.54       120
+
+    accuracy                           0.52       240
+   macro avg       0.52      0.52      0.52       240
+weighted avg       0.52      0.52      0.52       240
+
+ROC AUC Score: 0.5208
